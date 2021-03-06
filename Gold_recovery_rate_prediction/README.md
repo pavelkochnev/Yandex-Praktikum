@@ -30,7 +30,7 @@
 
 Итоговая метрика складывается из двух величин:
 
-**Итоговое sMAPE = 25% x sMAPE(rougher) + 75% x sMAPE(final)**
+*Итоговое sMAPE = 25% x sMAPE(rougher) + 75% x sMAPE(final)*
 
 ## Используемые библиотеки
 * pandas
